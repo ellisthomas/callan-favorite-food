@@ -1,2 +1,16 @@
-body {
-  background-color: slategray; }
+.background {
+  background-color: slategray;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/bb/16/59/bb1659849e68c94ae380df99e5ee258d.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: auto;
+  left: 0;
+  margin: auto;
+  min-height: 100%;
+  min-width: 674px;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: -1; }
